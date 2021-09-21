@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Mortal kombat 
+//kendall johnson
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (attacked from above) {
+    perform an uppercut
 } else {
-    //Add event below
+    block attack
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (attacked by a combo of hits) {
+    try to duck and kick
 } else {
-    //Add event below
+    block attack and continue to attack opponent
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (win) {
+    peform fatality
 } else {
-    //Add event below
+    watch the winning credit play out
 }
 
 
